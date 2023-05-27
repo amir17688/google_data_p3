@@ -1,0 +1,1 @@
+from .test_rest_framework import RestFrameworkTestCase

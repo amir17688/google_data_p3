@@ -1,0 +1,8 @@
+# @MUNTJAC_COPYRIGHT@
+# @MUNTJAC_LICENSE@
+
+
+class VTwinColSelect(object):
+
+    ATTRIBUTE_LEFT_CAPTION = 'lc'
+    ATTRIBUTE_RIGHT_CAPTION = 'rc'

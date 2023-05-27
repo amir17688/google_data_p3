@@ -1,0 +1,7 @@
+# @MUNTJAC_COPYRIGHT@
+# @MUNTJAC_LICENSE@
+
+
+class VSplitPanel(object):
+
+    SPLITTER_CLICK_EVENT_IDENTIFIER = 'sp_click'
